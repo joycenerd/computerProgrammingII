@@ -1,1 +1,1 @@
-https://drive.google.com/drive/folders/17uKZC-u6zbYxyzCg9tZJzB6fISpftNx5?ogsrc=32
+https://docs.google.com/document/d/1IEvD-7q5uTsaaklkCxtDSKKbWVIYf-mUZiQPg1GSoQM/edit#bookmark=id.gjdgxs
