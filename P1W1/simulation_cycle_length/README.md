@@ -1,4 +1,5 @@
 https://drive.google.com/file/d/1OlJJ9el1z94kcJYiU2jOOoSKGFUBdys7/view?usp=sharing
+
 hint:
 * 每次乘10取餘數
 * 法ㄧ：每次除完就把餘數存到一個陣列，在下一次取的時候就檢查一次這個餘數在前面有沒有出現過，如果有就已經找到循環節，如果沒有就將它存到該陣列
