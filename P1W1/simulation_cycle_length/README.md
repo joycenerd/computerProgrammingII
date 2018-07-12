@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1OlJJ9el1z94kcJYiU2jOOoSKGFUBdys7/view?usp=sharing
+https://drive.google.com/file/d/1-hBL7G3fWFXdbiwzsC9N86IL0lDQ9Y_J/view?usp=sharing
 
 hint:
 * 每次乘10取餘數
