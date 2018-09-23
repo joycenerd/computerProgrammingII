@@ -9,3 +9,15 @@ hint:
 * 用fgets而不是gets的原因是fgets有控制字串長度而gets沒有
   ->避免其他資料被蓋掉
 * strtoll():可以自動轉進位
+
+其中：
+
+```c
+for(j=0; j<len; j++){
+                num<<=1;  //k向左一1格代表k*2的意思
+                if(str[j]=='1') num|=1;   //如果k是1話，將k+1
+                printf("%d\n",num);
+            }
+```
+
+![](https://i.imgur.com/QRI2uM6.jpg)
