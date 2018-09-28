@@ -1,2 +1,2 @@
 # computerProgrammingII
-Solutions and notes for cs class computer programming II
+Solutions and notes for freshman cs class computer programming II
